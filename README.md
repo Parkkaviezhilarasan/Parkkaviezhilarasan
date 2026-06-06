@@ -113,11 +113,11 @@ Clean UI + mini projects.
 <p align="center">
 
 <a href="https://github.com/Parkkaviezhilarasan/Linux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parkkaviezhilarasan&repo=Linux&title_color=FF4FA3&icon_color=FF4FA3&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parkkaviezhilarasan&repo=Linux" />
 </a>
 
 <a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parkkaviezhilarasan&repo=RetinoGuardAI&title_color=FF4FA3&icon_color=FF4FA3&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parkkaviezhilarasan&repo=RetinoGuardAI" />
 </a>
 
 </p>
