@@ -112,8 +112,8 @@ Clean UI + mini projects.
 
 <p align="center">
 
-💻 Linux → https://github.com/Parkkaviezhilarasan/Linux  
-🤖 RetinoGuardAI → https://github.com/Parkkaviezhilarasan/RetinoGuardAI  
+💻 Linux → <a href="https://github.com/Parkkaviezhilarasan/Linux">Linux Project</a><br>
+🤖 RetinoGuardAI →<a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">🔗</a>  
 
 </p>
 
@@ -122,7 +122,7 @@ Clean UI + mini projects.
 <p align="center">
 
 🔗 <a href="https://github.com/Parkkaviezhilarasan/Linux">Linux Project</a><br>
-🔗 <a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">RetinoGuardAI</a>
+ <a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">RetinoGuardAI</a>
 
 </p>
 
