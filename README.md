@@ -1,9 +1,10 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&color=FF4FA3&width=435&lines=Hi+all!!%F0%9F%8C%B8;Parkkavi+here+%F0%9F%8E%80" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&color=FF4FA3&center=true&vCenter=true&width=800&lines=Hi+all!!%F0%9F%8C%B8;Parkkavi+here+%F0%9F%8E%80" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
 ### AI & Data Science Student • Machine Learning Explorer • DSA Enthusiast 💻✨
 
