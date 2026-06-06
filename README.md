@@ -24,9 +24,6 @@ Hi, I'm Parkkavi, an AI & Data Science student passionate about problem-solving,
 
 🎨 Creating posters and presentations with **Canva**
 
-💡 Exploring real-world projects to strengthen practical skills
-
-✨ I believe in **consistency over speed and learning over shortcuts**
 
 ---
 
@@ -37,21 +34,20 @@ Hi, I'm Parkkavi, an AI & Data Science student passionate about problem-solving,
 
 ## 🔥 What I Focus On
 
-### 🧩 DSA & Competitive Programming
-
-Topic-wise problem solving on **LeetCode** and **GeeksforGeeks**.  
-Regular practice on **Codeforces**, **CodeChef**, and **AtCoder**.  
-Strong focus on **logic building, patterns, and optimization**.  
-Progress tracking through coding platforms and consistency.
-
-<br>
-
 ### 🤖 Machine Learning & Data Science
 
 Working with **Python, NumPy, Pandas, Matplotlib, and Seaborn**.  
 Building machine learning models using **Scikit-Learn**.  
 Exploring data preprocessing, feature engineering, and model evaluation.  
 Learning deep learning concepts through practical projects.
+
+<br>
+
+### 🧩 DSA & Competitive Programming
+
+Topic-wise problem solving on **LeetCode** and **GeeksforGeeks**.    
+Strong focus on **logic building, patterns, and optimization**.  
+Progress tracking through coding platforms and consistency.
 
 <br>
 
