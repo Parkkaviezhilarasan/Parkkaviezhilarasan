@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
 <div align="center">
 
 # 🌸 Hi, I'm Parkkavi
 
 ### AI & Data Science Student • DSA Enthusiast • ML Explorer 💻✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;DSA+Learner;Machine+Learning+Explorer;Future+Data+Scientist+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=FF4FA3&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Student;DSA+Learner;Machine+Learning+Explorer;Future+Data+Scientist+🚀" />
 
 ### ✨ Consistency > Motivation ✨
 
@@ -22,9 +26,9 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 
 🌱 Learning **Python, Pandas, NumPy, Scikit-Learn & Deep Learning**
 
-🌐 Building responsive **web pages** using HTML & CSS
+🌐 Building responsive **web pages using HTML and CSS**
 
-🎨 Creating **posters, presentations & creative designs** using Canva
+🎨 Creating posters and presentations with **Canva**
 
 💡 Exploring real-world projects to strengthen practical skills
 
@@ -32,66 +36,106 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 
 ---
 
-# 🛠️ Tech Stack
+<table>
+<tr>
 
-<h3>👩‍💻 Programming Languages</h3>
+<td width="55%" valign="top">
+
+## 🔥 What I Focus On
+
+### 🧩 DSA & Competitive Programming
+
+Topic-wise problem solving on **LeetCode** and **GeeksforGeeks**.  
+Regular practice on **Codeforces**, **CodeChef**, and **AtCoder**.  
+Strong focus on **logic building, patterns, and optimization**.  
+Progress tracking through coding platforms and consistency.
+
+<br>
+
+### 🤖 Machine Learning & Data Science
+
+Working with **Python, NumPy, Pandas, Matplotlib, and Seaborn**.  
+Building machine learning models using **Scikit-Learn**.  
+Exploring data preprocessing, feature engineering, and model evaluation.  
+Learning deep learning concepts through practical projects.
+
+<br>
+
+### 💻 Frontend / Web Development
+
+Building responsive web pages using **HTML and CSS**.  
+Creating interactive mini-projects and portfolio websites.  
+Focused on clean UI design and structured code organization.  
+Continuously improving development and design skills.
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="banner.png" width="100%" />
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
-<h3>🌐 Web Technologies</h3>
+### 🌐 Web Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-<h3>⚙️ Tools & Platforms</h3>
+### 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-<h3>📊 Data Science & Machine Learning</h3>
+
+### 📊 Data Science & Machine Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn" />
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parkkaviezhilarasan&show_icons=true&title_color=F9A8D4&icon_color=F9A8D4&text_color=FFFFFF&bg_color=0D1117&border_color=F9A8D4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parkkaviezhilarasan&show_icons=true&title_color=FF4FA3&icon_color=FF4FA3&text_color=FFFFFF&bg_color=0D1117&border_color=FFD6E7"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkkaviezhilarasan&layout=compact&title_color=F9A8D4&text_color=FFFFFF&bg_color=0D1117&border_color=F9A8D4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkkaviezhilarasan&layout=compact&title_color=FF4FA3&text_color=FFFFFF&bg_color=0D1117&border_color=FFD6E7"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Parkkaviezhilarasan&theme=dark&ring=F9A8D4&fire=F9A8D4&currStreakLabel=F9A8D4"/>
+  <img src="https://streak-stats.demolab.com?user=Parkkaviezhilarasan&theme=dark&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FFD6E7"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-🌸 Excel Study Dashboard
-
-📊 Data Analysis Portfolio
-
-🤖 Machine Learning Projects
-
-💻 DSA Practice Repository
-
-🚀 Deep Learning Journey
+🌸 Excel Study Dashboard  
+📊 Data Analysis Portfolio  
+🤖 Machine Learning Projects  
+💻 DSA Practice Repository  
+🚀 Deep Learning Journey  
 
 ---
 
@@ -99,20 +143,20 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 
 <p align="center">
 
+<a href="mailto:parkkaviezhilarasan@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-FFD6E7?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
+
 <a href="https://www.linkedin.com/in/parkkaviezhilarasan/">
-<img src="https://img.shields.io/badge/LINKEDIN-F9D5E5?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FFD6E7?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
 <a href="https://leetcode.com/u/parkkaviezhilarasan/">
-<img src="https://img.shields.io/badge/LEETCODE-F9D5E5?style=for-the-badge&logo=leetcode&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LEETCODE-FFD6E7?style=for-the-badge&logo=leetcode&logoColor=000000"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/parkkaviezhilar1">
-<img src="https://img.shields.io/badge/HACKERRANK-F9D5E5?style=for-the-badge&logo=hackerrank&logoColor=000000"/>
-</a>
-
-<a href="mailto:parkkaviezhilarasan@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-F9D5E5?style=for-the-badge&logo=gmail&logoColor=000000"/>
+<img src="https://img.shields.io/badge/HACKERRANK-FFD6E7?style=for-the-badge&logo=hackerrank&logoColor=000000"/>
 </a>
 
 </p>
