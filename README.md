@@ -97,13 +97,11 @@ Clean UI + mini projects.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parkkaviezhilarasan&show_icons=true&title_color=FF4FA3&icon_color=FF4FA3&text_color=FFFFFF&bg_color=0D1117&border_color=FFD6E7"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkkaviezhilarasan&layout=compact&title_color=FF4FA3&text_color=FFFFFF&bg_color=0D1117&border_color=FFD6E7"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parkkaviezhilarasan&show_icons=true" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Parkkaviezhilarasan&theme=dark&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FFD6E7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkkaviezhilarasan&layout=compact" />
+
 </p>
 
 ---
@@ -112,17 +110,9 @@ Clean UI + mini projects.
 
 <p align="center">
 
-💻 Linux → <a href="https://github.com/Parkkaviezhilarasan/Linux">Linux Project</a><br>
-🤖 RetinoGuardAI →<a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">🔗</a>  
-
-</p>
-
-## 📌 Featured Projects
-
-<p align="center">
-
-🔗 <a href="https://github.com/Parkkaviezhilarasan/Linux">Linux Project</a><br>
- <a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">RetinoGuardAI</a>
+> Linux          <a href="https://github.com/Parkkaviezhilarasan/Linux">🔗</a><br>
+> RetinoGuardAI  <a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">🔗</a>
+> DSA            <a href="https://github.com/Parkkaviezhilarasan/DSA">🔗</a>
 
 </p>
 
