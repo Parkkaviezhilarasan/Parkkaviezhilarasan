@@ -124,7 +124,11 @@ Clean UI + mini projects.
 
 ---
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+## 🐍 GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Parkkaviezhilarasan/Parkkaviezhilarasan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+</p>
 
 ---
 
