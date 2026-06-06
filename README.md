@@ -108,6 +108,14 @@ Clean UI + mini projects.
 
 ---
 
+## 📌 Featured Projects
+
+<p align="center">
+
+💻 Linux → https://github.com/Parkkaviezhilarasan/Linux  
+🤖 RetinoGuardAI → https://github.com/Parkkaviezhilarasan/RetinoGuardAI  
+
+</p>
 
 ## 📌 Featured Projects
 
