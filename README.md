@@ -124,10 +124,12 @@ Clean UI + mini projects.
 
 ---
 
+
+
 ## 🐍 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Parkkaviezhilarasan/Parkkaviezhilarasan/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Parkkaviezhilarasan/Parkkaviezhilarasan/output/github-contribution-grid-snake-pink.svg" />
 </p>
 
 ---
