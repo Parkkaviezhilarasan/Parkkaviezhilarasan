@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&color=FF4FA3&center=true&vCenter=true&width=800&lines=Hi+all!!%F0%9F%8C%B8;Parkkavi+here+%F0%9F%8E%80" />
 </a>
 
+<br>
+
 ### AI & Data Science Student • Machine Learning Explorer • DSA Enthusiast 💻✨
 
 </div>
@@ -23,7 +25,6 @@ Hi, I'm Parkkavi, an AI & Data Science student passionate about problem-solving,
 🌐 Building responsive **web pages using HTML and CSS**
 
 🎨 Creating posters and presentations with **Canva**
-
 
 ---
 
@@ -67,31 +68,26 @@ Clean UI + mini projects.
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ### 🌐 Web Technologies
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### 🗄️ Database
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### ⚙️ Tools & Platforms
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### 📊 Data Science & Machine Learning
-
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn" />
 </p>
@@ -125,6 +121,7 @@ Clean UI + mini projects.
 </a>
 
 </p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -154,6 +151,5 @@ Clean UI + mini projects.
 <div align="center">
 
 ### 🌸 Keep Learning • Keep Building • Keep Growing 🌸
-
 
 </div>
