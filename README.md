@@ -126,14 +126,8 @@ Clean UI + mini projects.
 
 ## 🐍 GitHub Activity
 
-## 🐍 GitHub Activity
-
 <p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parkkaviezhilarasan&theme=tokyo-night" />
-
   <img src="https://raw.githubusercontent.com/Parkkaviezhilarasan/Parkkaviezhilarasan/output/github-contribution-grid-snake-dark.svg" />
-
 </p>
 
 ---
