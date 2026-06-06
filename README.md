@@ -96,11 +96,9 @@ Clean UI + mini projects.
 
 ## 📌 Featured Projects
 
-<p align="center">
-  Linux <a href="https://github.com/Parkkaviezhilarasan/Linux">🔗</a><br>
-  RetinoGuardAI <a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">🔗</a><br>
-  DSA <a href="https://github.com/Parkkaviezhilarasan/DSA">🔗</a>
-</p>
+* [Linux 🔗](https://github.com/Parkkaviezhilarasan/Linux)
+* [RetinoGuardAI 🔗](https://github.com/Parkkaviezhilarasan/RetinoGuardAI)
+* [DSA 🔗](https://github.com/Parkkaviezhilarasan/DSA)
 
 ---
 
