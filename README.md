@@ -97,11 +97,9 @@ Clean UI + mini projects.
 ## 📌 Featured Projects
 
 <p align="center">
-
-> Linux          <a href="https://github.com/Parkkaviezhilarasan/Linux">🔗</a><br>
-> RetinoGuardAI  <a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">🔗</a>
-> DSA            <a href="https://github.com/Parkkaviezhilarasan/DSA">🔗</a>
-
+  Linux <a href="https://github.com/Parkkaviezhilarasan/Linux">🔗</a><br>
+  RetinoGuardAI <a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">🔗</a><br>
+  DSA <a href="https://github.com/Parkkaviezhilarasan/DSA">🔗</a>
 </p>
 
 ---
@@ -111,25 +109,22 @@ Clean UI + mini projects.
 <p align="center">
 
 <a href="mailto:parkkaviezhilarasan@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-FFD6E7?style=for-the-badge&logo=gmail&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GMAIL-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/parkkaviezhilarasan/">
-<img src="https://img.shields.io/badge/LINKEDIN-FFD6E7?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/parkkaviezhilarasan/">
-<img src="https://img.shields.io/badge/LEETCODE-FFD6E7?style=for-the-badge&logo=leetcode&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/LEETCODE-FF4FA3?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/parkkaviezhilar1">
-<img src="https://img.shields.io/badge/HACKERRANK-FFD6E7?style=for-the-badge&logo=hackerrank&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/HACKERRANK-FF4FA3?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
-
----
-
 <div align="center">
 
 ### 🌸 Keep Learning • Keep Building • Keep Growing 🌸
