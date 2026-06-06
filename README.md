@@ -16,9 +16,11 @@ Hieee! I'm **Park**, an AI & Data Science student passionate about problem solvi
 
 🌱 Learning **Python, Pandas, NumPy, ML & Deep Learning**
 
-📚 Following **Striver A2Z** and improving problem-solving skills daily
+🌐 Building responsive **web pages** using HTML & CSS
 
 🎯 Interested in **Data Analytics, Machine Learning & AI**
+
+🎨 Creating **posters and presentations** with Canva
 
 ✨ I believe in **consistency over speed and learning over shortcuts**
 
@@ -51,17 +53,38 @@ Hieee! I'm **Park**, an AI & Data Science student passionate about problem solvi
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Tools
+### 🌐 Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 Data Science & Analytics
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### 🤖 Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+
+### 🎨 Design & Productivity
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### ⚙️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
