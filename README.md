@@ -2,7 +2,11 @@
 
 # 🌸 Hi, I'm Parkkavi
 
-### AI & Data Science  • DSA Enthusiast • ML Explorer 💻✨
+### AI & Data Science Student • DSA Enthusiast • ML Explorer 💻✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;DSA+Learner;Machine+Learning+Explorer;Future+Data+Scientist+%F0%9F%9A%80" />
+
+### ✨ Consistency > Motivation ✨
 
 </div>
 
@@ -10,17 +14,19 @@
 
 ## 🌷 About Me
 
-Hieee! I'm **Park**, an AI & Data Science student passionate about problem solving, machine learning, and building projects.
+Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving, machine learning, and building projects that turn data into insights.
 
 🔭 Currently working on **DSA, SQL & Machine Learning**
 
-🎯 Interested in **Data Analytics, Machine Learning & AI**
+🎯 Interested in **Data Analytics, Machine Learning & Artificial Intelligence**
 
-🌱 Learning **Python, Pandas, NumPy, ML & Deep Learning**
+🌱 Learning **Python, Pandas, NumPy, Scikit-Learn & Deep Learning**
 
 🌐 Building responsive **web pages** using HTML & CSS
 
-🎨 Creating **posters and presentations** with Canva
+🎨 Creating **posters, presentations & creative designs** using Canva
+
+💡 Exploring real-world projects to strengthen practical skills
 
 ✨ I believe in **consistency over speed and learning over shortcuts**
 
@@ -34,20 +40,23 @@ Hieee! I'm **Park**, an AI & Data Science student passionate about problem solvi
 - Data Structures
 - Algorithms
 - Logical Thinking
+- Coding Challenges
 
 ### 🤖 Machine Learning
 
 - Data Cleaning
 - Feature Engineering
 - Model Building
+- Model Evaluation
 - ML Projects
 
 ### 📊 Data Analytics
 
-- SQL
-- Pandas
-- NumPy
+- SQL Queries
+- Data Exploration
+- Pandas & NumPy
 - Data Visualization
+- Insight Generation
 
 ---
 
@@ -55,36 +64,66 @@ Hieee! I'm **Park**, an AI & Data Science student passionate about problem solvi
 
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-F9A8D4?style=for-the-badge&logo=openjdk&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-F9A8D4?style=for-the-badge&logo=mysql&logoColor=000000)
 
 ### 🌐 Web Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-F9A8D4?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-F9A8D4?style=for-the-badge&logo=css3&logoColor=000000)
 
 ### 📊 Data Science & Analytics
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-F9A8D4?style=for-the-badge&logo=numpy&logoColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-F9A8D4?style=for-the-badge&logo=pandas&logoColor=000000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F9A8D4?style=for-the-badge&logoColor=000000)
+![Seaborn](https://img.shields.io/badge/Seaborn-F9A8D4?style=for-the-badge&logoColor=000000)
 
 ### 🤖 Machine Learning
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F9A8D4?style=for-the-badge&logo=scikitlearn&logoColor=000000)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F9A8D4?style=for-the-badge&logoColor=000000)
 
 ### 🎨 Design & Productivity
 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-F9A8D4?style=for-the-badge&logo=canva&logoColor=000000)
 
 ### ⚙️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F9A8D4?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-F9A8D4?style=for-the-badge&logo=github&logoColor=000000)
+![VS Code](https://img.shields.io/badge/VSCode-F9A8D4?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parkkaviezhilarasan&show_icons=true&title_color=F9A8D4&icon_color=F9A8D4&text_color=000000&bg_color=FFF5F7"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkkaviezhilarasan&layout=compact&title_color=F9A8D4&text_color=000000&bg_color=FFF5F7"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Parkkaviezhilarasan&ring=F9A8D4&fire=F9A8D4&currStreakLabel=000000&sideLabels=000000&dates=000000&background=FFF5F7&stroke=F9A8D4"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+🌸 Excel Study Dashboard
+
+📊 Data Analysis Portfolio
+
+🤖 Machine Learning Projects
+
+💻 DSA Practice Repository
+
+🚀 Deep Learning Journey
+
+---
 
 ## 🌐 Connect With Me
 
@@ -96,4 +135,12 @@ Hieee! I'm **Park**, an AI & Data Science student passionate about problem solvi
 
 [![Gmail](https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:parkkaviezhilarasan@gmail.com)
 
-### ✨ Consistency > Motivation ✨
+---
+
+<div align="center">
+
+### 🌸 Keep Learning • Keep Building • Keep Growing 🌸
+
+✨ Consistency > Motivation ✨
+
+</div>
