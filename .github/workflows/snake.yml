@@ -5,22 +5,29 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:      # allows manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
+      - uses: actions/checkout@v4
+
+      - name: Generate snake (default + pink gradient)
         uses: Platane/snk@v3
         with:
           github_user_name: parkkaviezhilarasan
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-pink.svg?color_snake=#9d174d&color_dots=#1a1a1a,#9E1364,#E91E8D,#FF4FA6,#FF9ACB,#FFE6F2
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-pink.svg
 
+          # 🌸 Pink theme customization (THIS is correct way)
+          color_snake: "#FF4FA6"
+          color_dots: |
+            #1a1a1a,#9E1364,#E91E8D,#FF4FA6,#FF9ACB,#FFE6F2
 
       - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v4
