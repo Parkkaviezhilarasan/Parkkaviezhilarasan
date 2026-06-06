@@ -94,27 +94,10 @@ Clean UI + mini projects.
 
 ---
 
-## 🌐 Connect With Me
+* [Linux 🔗](https://github.com/Parkkaviezhilarasan/Linux)
+* [RetinoGuardAI 🔗](https://github.com/Parkkaviezhilarasan/RetinoGuardAI)
+* [DSA 🔗](https://github.com/Parkkaviezhilarasan/DSA)
 
-<p align="center">
-
-<a href="mailto:parkkaviezhilarasan@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-FF7AA2?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/parkkaviezhilarasan/">
-  <img src="https://img.shields.io/badge/LINKEDIN-FF7AA2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/parkkaviezhilarasan/">
-  <img src="https://img.shields.io/badge/LEETCODE-FF7AA2?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/parkkaviezhilar1">
-  <img src="https://img.shields.io/badge/HACKERRANK-FF7AA2?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</p>
 ---
 
 ## 🌐 Connect With Me
@@ -122,22 +105,23 @@ Clean UI + mini projects.
 <p align="center">
 
 <a href="mailto:parkkaviezhilarasan@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF7AA2"/>
 </a>
 
 <a href="https://www.linkedin.com/in/parkkaviezhilarasan/">
-  <img src="https://img.shields.io/badge/LINKEDIN-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF7AA2"/>
 </a>
 
 <a href="https://leetcode.com/u/parkkaviezhilarasan/">
-  <img src="https://img.shields.io/badge/LEETCODE-FF4FA3?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LEETCODE-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=FF7AA2"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/parkkaviezhilar1">
-  <img src="https://img.shields.io/badge/HACKERRANK-FF4FA3?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HACKERRANK-0D0D0D?style=for-the-badge&logo=hackerrank&logoColor=FF7AA2"/>
 </a>
 
 </p>
+
 <div align="center">
 
 ### 🌸 Keep Learning • Keep Building • Keep Growing 🌸
