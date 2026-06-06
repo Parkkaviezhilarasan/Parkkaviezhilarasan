@@ -90,7 +90,8 @@ Hieee! I'm **Park**, an AI & Data Science student passionate about problem solvi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DB2777?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parkkaviezhilarasan/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/parkkaviezhilarasan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F9A8D4?style=for-the-badge&logo=leetcode&logoColor=000000)](https://leetcode.com/u/parkkaviezhilarasan/)
+
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/parkkaviezhilar1)
 
