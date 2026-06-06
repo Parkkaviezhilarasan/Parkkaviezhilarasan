@@ -51,19 +51,17 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-### ⚙️ Tools & Platforms
+<h3>📊 Data Science & Machine Learning</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-</p>
-
-### 📊 Data Science & Machine Learning
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
