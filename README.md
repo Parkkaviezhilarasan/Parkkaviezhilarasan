@@ -77,11 +77,6 @@ Clean UI + mini projects.
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
 ### ⚙️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -89,9 +84,8 @@ Clean UI + mini projects.
 
 ### 📊 Data Science & Machine Learning
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,numpy,pandas,scikitlearn" />
 </p>
-
 ---
 
 ### 📌Featured Projects
