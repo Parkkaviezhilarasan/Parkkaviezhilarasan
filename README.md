@@ -27,48 +27,40 @@ Hi, I'm Parkkavi, an AI & Data Science student passionate about problem-solving,
 
 ---
 
-<div align="center">
-
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ## 🔥 What I Focus On
 
 ### 🤖 Machine Learning & Data Science
 Working with **Python, NumPy, Pandas, Matplotlib, and Seaborn**.  
 Building ML models using **Scikit-Learn**.  
-Exploring data preprocessing, feature engineering, and evaluation.  
-Learning deep learning through projects.
+Exploring preprocessing, feature engineering, evaluation.
 
 <br>
 
 ### 🧩 DSA & Competitive Programming
 Problem solving on **LeetCode & GeeksforGeeks**.  
-Strong focus on **logic building, patterns, optimization**.  
-Progress tracking with consistency.
+Focus on **patterns, logic, optimization**.
 
 <br>
 
 ### 💻 Frontend / Web Development
-Building responsive web pages using **HTML & CSS**.  
-Creating mini projects and portfolio sites.  
-Clean UI + structured code practice.
+Building responsive websites using **HTML & CSS**.  
+Clean UI + mini projects.
 
 </td>
 
-<td width="50%" align="center">
+<td width="45%" align="center">
 
-<img src="banner.png" width="280px" />
+<img src="banner.png" width="320px" />
 
 </td>
 
 </tr>
 </table>
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
