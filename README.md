@@ -110,7 +110,7 @@ Clean UI + mini projects.
 
 <a href="https://www.linkedin.com/in/parkkaviezhilarasan/">
   <img src="https://img.shields.io/badge/LINKEDIN-F4C2C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a>  
 
 <a href="https://leetcode.com/u/parkkaviezhilarasan/">
   <img src="https://img.shields.io/badge/LEETCODE-F4C2C2?style=for-the-badge&logo=leetcode&logoColor=white"/>
