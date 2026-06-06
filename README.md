@@ -108,17 +108,13 @@ Clean UI + mini projects.
 
 ---
 
+
 ## 📌 Featured Projects
 
 <p align="center">
 
-<a href="https://github.com/Parkkaviezhilarasan/Linux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parkkaviezhilarasan&repo=Linux" />
-</a>
-
-<a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parkkaviezhilarasan&repo=RetinoGuardAI" />
-</a>
+🔗 <a href="https://github.com/Parkkaviezhilarasan/Linux">Linux Project</a><br>
+🔗 <a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">RetinoGuardAI</a>
 
 </p>
 
