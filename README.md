@@ -69,9 +69,9 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 ![SQL](https://img.shields.io/badge/SQL-F472B6?style=for-the-badge&logo=mysql&logoColor=000000)
 
 ### 🌐 Web Technologies
-![Python](https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=000000)
-![Java](https://img.shields.io/badge/Java-A855F7?style=for-the-badge&logo=openjdk&logoColor=000000)
-![SQL](https://img.shields.io/badge/SQL-EC4899?style=for-the-badge&logo=mysql&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ### 📊 Data Science & Analytics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
