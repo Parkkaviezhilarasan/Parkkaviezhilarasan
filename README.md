@@ -74,11 +74,11 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 ![SQL](https://img.shields.io/badge/SQL-EC4899?style=for-the-badge&logo=mysql&logoColor=000000)
 ### 📊 Data Science & Analytics
 
-![NumPy](https://img.shields.io/badge/NumPy-F9A8D4?style=for-the-badge&logo=numpy&logoColor=000000)
-![Pandas](https://img.shields.io/badge/Pandas-F9A8D4?style=for-the-badge&logo=pandas&logoColor=000000)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F9A8D4?style=for-the-badge&logoColor=000000)
-![Seaborn](https://img.shields.io/badge/Seaborn-F9A8D4?style=for-the-badge&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ### 🤖 Machine Learning
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F9A8D4?style=for-the-badge&logo=scikitlearn&logoColor=000000)
