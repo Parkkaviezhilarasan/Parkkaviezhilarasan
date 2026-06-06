@@ -94,18 +94,6 @@ Clean UI + mini projects.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parkkaviezhilarasan&show_icons=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkkaviezhilarasan&layout=compact" />
-
-</p>
-
----
-
 ## 📌 Featured Projects
 
 <p align="center">
