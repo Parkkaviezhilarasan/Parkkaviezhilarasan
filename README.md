@@ -34,24 +34,23 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 
 # 🛠️ Tech Stack
 
-### 👩‍💻 Programming Languages
+<h3>👩‍💻 Programming Languages</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
-### 🌐 Web Technologies
+<h3>🌐 Web Technologies</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🗄️ Database
+<h3>⚙️ Tools & Platforms</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
 ### ⚙️ Tools & Platforms
 
 <p>
