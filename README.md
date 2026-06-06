@@ -1,11 +1,13 @@
 
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=900&color=FF4FA3&center=true&vCenter=true&width=800&lines=Hi+all!!;Parkkavi+here+🎀🌸" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=900&color=FF4FA3&center=true&vCenter=true&width=1000&lines=Hi+all!!+Parkkavi+here+🎀🌸" />
+
+<br>
 
 ### AI & Data Science Student • DSA Enthusiast • ML Explorer 💻✨
 
+<br>
 
 ### ✨ Consistency > Motivation ✨
 
