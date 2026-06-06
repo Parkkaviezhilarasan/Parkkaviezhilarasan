@@ -8,10 +8,9 @@
 
 ### AI & Data Science Student • Machine Learning Explorer • DSA Enthusiast 💻✨
 
-<br>
+<br><br>
 
 </div>
-
 ---
 
 ## 🌷 About Me
