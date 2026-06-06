@@ -105,22 +105,24 @@ Clean UI + mini projects.
 <p align="center">
 
 <a href="mailto:parkkaviezhilarasan@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GMAIL-F4C2C2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/parkkaviezhilarasan/">
-  <img src="https://img.shields.io/badge/LINKEDIN-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-F4C2C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/parkkaviezhilarasan/">
-  <img src="https://img.shields.io/badge/LEETCODE-FF4FA3?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LEETCODE-F4C2C2?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/parkkaviezhilar1">
-  <img src="https://img.shields.io/badge/HACKERRANK-FF4FA3?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HACKERRANK-F4C2C2?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
+
+---
 
 <div align="center">
 
