@@ -90,12 +90,14 @@ Hieee! I'm **Park**, an AI & Data Science student passionate about problem solvi
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=ff79c6)](https://www.linkedin.com/in/parkkaviezhilarasan/)
+## 🌐 Connect With Me
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=ff79c6)](https://leetcode.com/u/parkkaviezhilarasan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parkkaviezhilarasan/)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-1a1b27?style=for-the-badge&logo=hackerrank&logoColor=ff79c6)](https://www.hackerrank.com/profile/parkkaviezhilar1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/parkkaviezhilarasan/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=ff79c6)](mailto:parkkaviezhilarasan@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2563EB?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/parkkaviezhilar1)
+
+[![Gmail](https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parkkaviezhilarasan@gmail.com)
 
 ### ✨ Consistency > Motivation ✨
