@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌸 Hi, I'm Park Kaviezhilarasan
+# 🌸 Hi, I'm Parkkavi
 
-### AI & Data Science Student • DSA Enthusiast • ML Explorer 💻✨
+### AI & Data Science  • DSA Enthusiast • ML Explorer 💻✨
 
 </div>
 
@@ -14,11 +14,11 @@ Hieee! I'm **Park**, an AI & Data Science student passionate about problem solvi
 
 🔭 Currently working on **DSA, SQL & Machine Learning**
 
+🎯 Interested in **Data Analytics, Machine Learning & AI**
+
 🌱 Learning **Python, Pandas, NumPy, ML & Deep Learning**
 
 🌐 Building responsive **web pages** using HTML & CSS
-
-🎯 Interested in **Data Analytics, Machine Learning & AI**
 
 🎨 Creating **posters and presentations** with Canva
 
