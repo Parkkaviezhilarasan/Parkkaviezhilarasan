@@ -62,36 +62,29 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 👩‍💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-F472B6?style=for-the-badge&logo=python&logoColor=000000)
-![Java](https://img.shields.io/badge/Java-F472B6?style=for-the-badge&logo=openjdk&logoColor=000000)
-![SQL](https://img.shields.io/badge/SQL-F472B6?style=for-the-badge&logo=mysql&logoColor=000000)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
 
 ### 🌐 Web Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
 ### 📊 Data Science & Analytics
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-### 🤖 Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F9A8D4?style=for-the-badge&logo=scikitlearn&logoColor=000000)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F9A8D4?style=for-the-badge&logoColor=000000)
-
-### 🎨 Design & Productivity
-
-![Canva](https://img.shields.io/badge/Canva-F9A8D4?style=for-the-badge&logo=canva&logoColor=000000)
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ### ⚙️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F9A8D4?style=for-the-badge&logo=git&logoColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-F9A8D4?style=for-the-badge&logo=github&logoColor=000000)
-![VS Code](https://img.shields.io/badge/VSCode-F9A8D4?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 ---
 
 ## 📈 GitHub Statistics
