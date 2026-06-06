@@ -116,32 +116,15 @@ Clean UI + mini projects.
 
 <p align="center">
 
-<a href="https://github.com/Parkkaviezhilarasan/Basics_ai_ml">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parkkaviezhilarasan&repo=Basics_ai_ml&title_color=FF4FA3&icon_color=FF4FA3&text_color=ffffff&bg_color=0d1117" />
-</a>
-
 <a href="https://github.com/Parkkaviezhilarasan/Linux">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parkkaviezhilarasan&repo=Linux&title_color=FF4FA3&icon_color=FF4FA3&text_color=ffffff&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/Parkkaviezhilarasan/SQL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parkkaviezhilarasan&repo=SQL&title_color=FF4FA3&icon_color=FF4FA3&text_color=ffffff&bg_color=0d1117" />
 </a>
 
 <a href="https://github.com/Parkkaviezhilarasan/RetinoGuardAI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parkkaviezhilarasan&repo=RetinoGuardAI&title_color=FF4FA3&icon_color=FF4FA3&text_color=ffffff&bg_color=0d1117" />
 </a>
 
-<a href="https://github.com/Parkkaviezhilarasan/cara">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parkkaviezhilarasan&repo=cara&title_color=FF4FA3&icon_color=FF4FA3&text_color=ffffff&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/Parkkaviezhilarasan/DSA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parkkaviezhilarasan&repo=DSA&title_color=FF4FA3&icon_color=FF4FA3&text_color=ffffff&bg_color=0d1117" />
-</a>
-
 </p>
-
 ---
 
 ## 🌐 Connect With Me
