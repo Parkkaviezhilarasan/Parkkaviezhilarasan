@@ -64,15 +64,18 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=000000)
-![Java](https://img.shields.io/badge/Java-F9A8D4?style=for-the-badge&logo=openjdk&logoColor=000000)
-![SQL](https://img.shields.io/badge/SQL-F9A8D4?style=for-the-badge&logo=mysql&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-F472B6?style=for-the-badge&logo=python&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-F472B6?style=for-the-badge&logo=openjdk&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-F472B6?style=for-the-badge&logo=mysql&logoColor=000000)
 
 ### 🌐 Web Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-F9A8D4?style=for-the-badge&logo=html5&logoColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-F9A8D4?style=for-the-badge&logo=css3&logoColor=000000)
-
+![Python](https://img.shields.io/badge/Python-67E8F9?style=for-the-badge&logo=python&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-67E8F9?style=for-the-badge&logo=openjdk&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-67E8F9?style=for-the-badge&logo=mysql&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-A855F7?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-EC4899?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ### 📊 Data Science & Analytics
 
 ![NumPy](https://img.shields.io/badge/NumPy-F9A8D4?style=for-the-badge&logo=numpy&logoColor=000000)
