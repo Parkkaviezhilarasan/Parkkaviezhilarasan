@@ -75,9 +75,7 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 ### 📊 Data Science & Analytics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ### 🤖 Machine Learning
 
