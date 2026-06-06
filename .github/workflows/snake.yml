@@ -15,21 +15,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake (default + pink gradient)
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: parkkaviezhilarasan
+
+          # 🐍 outputs
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
             dist/github-contribution-grid-snake-pink.svg
 
-          # 🌸 Pink theme customization (THIS is correct way)
+          # 🌸 pink snake color
           color_snake: "#FF4FA6"
-          color_dots: |
-            #1a1a1a,#9E1364,#E91E8D,#FF4FA6,#FF9ACB,#FFE6F2
 
-      - name: Publish snake animation
+          # 🎯 fixes grid look
+          color_dots: |
+            transparent,transparent,#FF9ACB,#FF4FA6,#E91E8D,#9E1364
+
+      - name: Publish
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
