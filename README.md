@@ -4,7 +4,7 @@
 
 ### AI & Data Science Student • DSA Enthusiast • ML Explorer 💻✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;DSA+Learner;Machine+Learning+Explorer;Future+Data+Scientist+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;DSA+Learner;Machine+Learning+Explorer;Future+Data+Scientist+🚀" />
 
 ### ✨ Consistency > Motivation ✨
 
@@ -32,40 +32,12 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 
 ---
 
-## 🔥 What I Focus On
-
-### 💻 DSA & Problem Solving
-
-- LeetCode Practice
-- Data Structures
-- Algorithms
-- Logical Thinking
-- Coding Challenges
-
-### 🤖 Machine Learning
-
-- Data Cleaning
-- Feature Engineering
-- Model Building
-- Model Evaluation
-- ML Projects
-
-### 📊 Data Analytics
-
-- SQL Queries
-- Data Exploration
-- Pandas & NumPy
-- Data Visualization
-- Insight Generation
-
----
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ### 🌐 Web Technologies
@@ -74,29 +46,40 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 📊 Data Science & Analytics
+### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
+
+### 📊 Data Science & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parkkaviezhilarasan&show_icons=true&title_color=F9A8D4&icon_color=F9A8D4&text_color=000000&bg_color=FFF5F7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parkkaviezhilarasan&show_icons=true&title_color=F9A8D4&icon_color=F9A8D4&text_color=FFFFFF&bg_color=0D1117&border_color=F9A8D4"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkkaviezhilarasan&layout=compact&title_color=F9A8D4&text_color=000000&bg_color=FFF5F7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkkaviezhilarasan&layout=compact&title_color=F9A8D4&text_color=FFFFFF&bg_color=0D1117&border_color=F9A8D4"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Parkkaviezhilarasan&ring=F9A8D4&fire=F9A8D4&currStreakLabel=000000&sideLabels=000000&dates=000000&background=FFF5F7&stroke=F9A8D4"/>
+  <img src="https://streak-stats.demolab.com?user=Parkkaviezhilarasan&theme=dark&ring=F9A8D4&fire=F9A8D4&currStreakLabel=F9A8D4"/>
 </p>
 
 ---
@@ -117,13 +100,25 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F9A8D4?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/parkkaviezhilarasan/)
+<p align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-F9A8D4?style=for-the-badge&logo=leetcode&logoColor=000000)](https://leetcode.com/u/parkkaviezhilarasan/)
+<a href="https://www.linkedin.com/in/parkkaviezhilarasan/">
+<img src="https://img.shields.io/badge/LINKEDIN-F9D5E5?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-F9A8D4?style=for-the-badge&logo=hackerrank&logoColor=000000)](https://www.hackerrank.com/profile/parkkaviezhilar1)
+<a href="https://leetcode.com/u/parkkaviezhilarasan/">
+<img src="https://img.shields.io/badge/LEETCODE-F9D5E5?style=for-the-badge&logo=leetcode&logoColor=000000"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:parkkaviezhilarasan@gmail.com)
+<a href="https://www.hackerrank.com/profile/parkkaviezhilar1">
+<img src="https://img.shields.io/badge/HACKERRANK-F9D5E5?style=for-the-badge&logo=hackerrank&logoColor=000000"/>
+</a>
+
+<a href="mailto:parkkaviezhilarasan@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-F9D5E5?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
+
+</p>
 
 ---
 
@@ -131,6 +126,6 @@ Hi! I'm **Park**, an AI & Data Science student passionate about problem-solving,
 
 ### 🌸 Keep Learning • Keep Building • Keep Growing 🌸
 
-✨ Consistency > Motivation ✨
+### ✨ Consistency > Motivation ✨
 
 </div>
