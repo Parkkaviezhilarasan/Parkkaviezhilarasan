@@ -94,12 +94,27 @@ Clean UI + mini projects.
 
 ---
 
-## 📌 Featured Projects
+## 🌐 Connect With Me
 
-* [Linux 🔗](https://github.com/Parkkaviezhilarasan/Linux)
-* [RetinoGuardAI 🔗](https://github.com/Parkkaviezhilarasan/RetinoGuardAI)
-* [DSA 🔗](https://github.com/Parkkaviezhilarasan/DSA)
+<p align="center">
 
+<a href="mailto:parkkaviezhilarasan@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-FF7AA2?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/parkkaviezhilarasan/">
+  <img src="https://img.shields.io/badge/LINKEDIN-FF7AA2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/parkkaviezhilarasan/">
+  <img src="https://img.shields.io/badge/LEETCODE-FF7AA2?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/parkkaviezhilar1">
+  <img src="https://img.shields.io/badge/HACKERRANK-FF7AA2?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
 ---
 
 ## 🌐 Connect With Me
