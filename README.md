@@ -105,22 +105,23 @@ Clean UI + mini projects.
 <p align="center">
 
 <a href="mailto:parkkaviezhilarasan@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-FF7AA2?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/GMAIL-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/parkkaviezhilarasan/">
-  <img src="https://img.shields.io/badge/LINKEDIN-FF7AA2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/parkkaviezhilarasan/">
-  <img src="https://img.shields.io/badge/LEETCODE-FF7AA2?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/LEETCODE-FF4FA3?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/parkkaviezhilar1">
-  <img src="https://img.shields.io/badge/HACKERRANK-FF7AA2?style=for-the-badge&logo=hackerrank"/>
+  <img src="https://img.shields.io/badge/HACKERRANK-FF4FA3?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
+
 <div align="center">
 
 ### 🌸 Keep Learning • Keep Building • Keep Growing 🌸
