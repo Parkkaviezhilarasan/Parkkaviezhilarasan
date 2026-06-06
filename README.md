@@ -2,11 +2,11 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=900&color=FF4FA3&center=true&vCenter=true&width=800&lines=Hi+all!!;Parkkavi+here+🎀" />
 # 🌸 Hi, I'm Parkkavi
 
 ### AI & Data Science Student • DSA Enthusiast • ML Explorer 💻✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=FF4FA3&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Student;DSA+Learner;Machine+Learning+Explorer;Future+Data+Scientist+🚀" />
 
 ### ✨ Consistency > Motivation ✨
 
