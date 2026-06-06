@@ -61,6 +61,7 @@ Clean UI + mini projects.
 
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Tech Stack
