@@ -19,18 +19,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: parkkaviezhilarasan
-
-          # 🐍 outputs
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-pink.svg
-
-          # 🌸 pink snake color
-          color_snake: "#FF4FA6"
-
-          # 🎯 fixes grid look
-          color_dots: |
-            transparent,transparent,#FF9ACB,#FF4FA6,#E91E8D,#9E1364
+            dist/github-contribution-grid-snake-pink.svg?color_snake=#FF4FA6&color_dots=transparent,transparent,#FF9ACB,#FF4FA6,#E91E8D,#9E1364
 
       - name: Publish
         uses: crazy-max/ghaction-github-pages@v4
